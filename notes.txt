@@ -1,7 +1,7 @@
-- basic structure
-- versioning
-- upload a document
-- token management
-- using a config file
-- connecting a database
-- what is typescripting
+Send "Wishing you a very Happy Independance Day" mail to every user on 15 Aug at 09:00 AM(India Timezone)
+
+timezone list
+https://www.iana.org/time-zones
+
+verify your cron expression here
+https://crontab.guru/
